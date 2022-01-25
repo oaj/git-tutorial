@@ -1,3 +1,3 @@
 # git-tutorial
 
--commit
+- done commit
